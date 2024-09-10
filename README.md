@@ -22,33 +22,61 @@ In the following models were trained with different forecasting horizons.Horizon
 **Problem Analysis**
 
 **Read Me**
+
 **Data Exploration and Preparation**
+
 **Choosing a measure of loss**
+
 **Testing Phase 1**
+
     Intro to Visualization Of Results
+    
     Primitive Lag Model
+    
     SARIMA
+    
         SARIMA 6h
+        
     Support Vector Regression SVR
+    
         SVR 6h
+        
     Lasso
+    
         Lasso 6h
+        
     Random Forest
+    
         GridSearch
+        
         Random Forest 6h
+        
 **Testing Phase 2**
+
     RNN
+    
         RNN 6h
+        
     LSTM
+    
     Autoencoder LSTM
+    
         Autoencoder 6h Reference
+        
         Autoencoder Feature-GridSearch
+        
         Autoencoder with Features 6h
+        
 **Testing Phase 3**
+
         Autoencoder Hyperparameter-GridSearch
+        
         Autoencoder fully tuned 6h
+        
 **Evaluation/Comparison of the model predictions**
+
 **Lessons Learnt**
+
 **Bonus: FFT Longterm Prediction Trial**
 
 
