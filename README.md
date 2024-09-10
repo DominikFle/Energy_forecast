@@ -1,7 +1,7 @@
 # Fine Grained Time Series Forecasting of Energy Demand
 [→Colab Notebook](https://colab.research.google.com/drive/1R1FFWLYn06mv4ePZDjAsePn6pXLX5Omy?usp=sharing#scrollTo=WUbAEd85M40c)
 Exemplary Forecasting Result:
-![grafik](https://user-images.githubusercontent.com/75590579/167874801-5005404a-6d06-408a-874b-0f45991e98f5.png)
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/75590579/167874801-5005404a-6d06-408a-874b-0f45991e98f5.png)" alt="drawing" width="200"/>
 ### Problem Analysis:
 Reading the book "Blackout" by Marc Elsberg I realized, that the power grid might be more fragile than I thought. For the first time I consciuosly was confronted with the problem of balancing the supply and demand of electric power in the grid.
 
