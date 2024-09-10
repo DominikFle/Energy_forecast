@@ -18,16 +18,11 @@ The dataset from [Kaggle](https://www.kaggle.com/robikscube/hourly-energy-consum
 In the following models were trained with different forecasting horizons.Horizons were: 1h, 6h, 24h and sometimes even higher. To stay consistent the majority of models was evaluated and compared using a forecast horizon of 6h.
 ### Overview of the Notebook:
 
+**1. Data Exploration and Preparation**
 
-**Problem Analysis**
+**2. Choosing a measure of loss**
 
-**Read Me**
-
-**Data Exploration and Preparation**
-
-**Choosing a measure of loss**
-
-**Testing Phase 1**
+**3. Testing Phase 1**
 
     Intro to Visualization Of Results
     
@@ -51,7 +46,7 @@ In the following models were trained with different forecasting horizons.Horizon
         
         Random Forest 6h
         
-**Testing Phase 2**
+**4. Testing Phase 2**
 
     RNN
     
@@ -67,17 +62,17 @@ In the following models were trained with different forecasting horizons.Horizon
         
         Autoencoder with Features 6h
         
-**Testing Phase 3**
+**5. Testing Phase 3**
 
         Autoencoder Hyperparameter-GridSearch
         
         Autoencoder fully tuned 6h
         
-**Evaluation/Comparison of the model predictions**
+**6. Evaluation/Comparison of the model predictions**
 
-**Lessons Learnt**
+**7. Lessons Learnt**
 
-**Bonus: FFT Longterm Prediction Trial**
+**8. Bonus: FFT Longterm Prediction Trial**
 
 
 
